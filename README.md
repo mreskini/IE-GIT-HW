@@ -9,3 +9,10 @@ Here are some screenshots of the app. hope you enjoy!
 ![Image](./screenshots/ReactDaily02.png)  
   
 ![Image](./screenshots/ReactDaily03.png)
+
+
+# How to install?
+You can simply install the app by running `npm install`.
+
+# How to run the app?
+You can start the project using `npm start` command thing.
